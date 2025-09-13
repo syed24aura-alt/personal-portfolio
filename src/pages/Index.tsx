@@ -172,7 +172,7 @@ const Index = () => {
           <Card className="bg-card/30 backdrop-blur-sm border-border/50">
             <CardContent className="p-8">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Hi, I'm Syed Qadri, a developer, programmer, freelancer, and data analyst pursuing a Computer Science degree. 
+                I am a developer, programmer, freelancer, and data analyst pursuing a Computer Science degree. 
                 I'm passionate about technology and continuously expanding my skills. I'm proficient in Python and experienced 
                 with HTML/CSS, with growing knowledge of SQL, Tableau, and Power BI.
               </p>
